@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Background color for whole page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Header formatting */
 .header h1{
     display: inline-block;
     font-size: 48px;
 }
-
+Í/* Displays the header in a line */
  .seo{
     color: #d9dcd6;
 }
-
+/* Coloring of the letters SEO in company name */
 .header div{
     padding-top: 15px;
     margin-right: 20px;
@@ -31,21 +31,21 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Header box formatting */
 .header div ul {
     list-style-type: none;
 }
-
+/* Removes bullets and indentation from lists */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Displays the lists/links at the top horizontally, inline */
 a {
     color: #ffffff;
     text-decoration:none;
 }
-
+/* Removes underline from links, styles links */
 p {
     font-size: 16px;
 }
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Styling large center images of meeting */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Floating images in middle boxes to the left */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Floating images in middle boxes to the right*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Styling three boxes in the center of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,12 +85,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Styling vertical box on the right */
 .benefit-side {
     color: #ffffff;
     margin-bottom:10px;
 }
-
+/* Boxes in the box on the side */
 h3{
     margin-bottom:10px;
     text-align: center;
@@ -101,7 +101,7 @@ h3{
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Images in the boxes on the side */
 .middle-boxes {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,7 +114,7 @@ h3{
 .middle-boxes img {
     max-height: 200px;
 }
-
+/* Styling images in the three center boxes */
 
 .middle-boxes h2 {
     margin-bottom: 20px;
@@ -130,3 +130,4 @@ footer {
     text-align:center;
     font-weight:400;
 }
+/* Styling footer*/

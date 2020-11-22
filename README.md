@@ -1,1 +1,1 @@
-# homework1
+# This is a website that is modified to have the same content with more concise code. This will allow the website to be updated in the future with less chances of the foundational code breaking.
